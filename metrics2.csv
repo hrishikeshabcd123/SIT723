@@ -1,0 +1,1 @@
+Dataset,Number of Nodes,Numbber of Edges,AVG:DEGREE,SD:Degree,AVG:INDEGREE,STD:INDEGREE,AVG:OUTDEGREE,STD:OUTDEGREE,StrongConnection,WeakConnection,AVGConnection,Flow Hirarchy,Average Node Connectivity,AVG Degree Connectivity,SD Degree Connecvivity ,Average Degree connectivity,Average Clustering Coieficinent,Density
